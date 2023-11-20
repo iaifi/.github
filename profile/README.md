@@ -12,7 +12,7 @@ Repositories for IAIFI products:
 * [Towards Designing and Exploiting Generative Networks for Neutrino Physics Experiments using Liquid Argon Time Projection Chambers, Paul Lutkus, Taritree Wongjirad, Schuchin Aeron](https://github.com/NuTufts/LArTPC-VQVAE)
 * [E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once, Benjamin Nachman and Jesse Thaler](https://github.com/bnachman/EnsembleLearning)
 * [Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge, Sang Eon Park, Dylan Rankin, Silviu-Marian Udrescu, Mikaeel Yunus, Philip Harris](https://github.com/SangeonPark/QUAK)
-* [Enhancing searches for resonances with machine learning and moment decomposition](https://github.com/okitouni/MoDe)
+* [Enhancing searches for resonances with machine learning and moment decomposition, Ouail Kitouni, Benjamin Nachman, Constantin Weisser, and Mike Williams](https://github.com/okitouni/MoDe)
 * [Poisson Flow Generative Models, Yilun Xu, Ziming Liu, Max Tegmark, Tommi Jaakkola](https://github.com/Newbeeer/poisson_flow)
 * [Neural Descriptor Fields: SE(3) Equivariant Object Representations for Manipulation, Anthony Simeonov, Yilun Du, Andrea Tagliasacchi, Joshua B. Tenenbaum, Alberto Rodriguez, Pulkit Agrawal, Vincent Sitzmann](https://yilundu.github.io/ndf/)
 * [Learning Task Informed Abstractions, Xiang Fu, Ge Yang, Pulkit Agrawal, Tommi Jaakkola](https://xiangfu.co/tia) 
