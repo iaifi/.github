@@ -10,7 +10,7 @@ Repositories for IAIFI products:
 * [The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider](https://github.com/bostdiek/DarkMachines-UnsupervisedChallenge)
 * [A Compound Poisson Generator approach to Point-Source Inference in Astrophysics, Gabriel H. Collin, Nicholas L. Rodd, Tyler Erjavec, Kerstin Perez](https://github.com/ghcollin/cpg_likelihood)
 * [Towards Designing and Exploiting Generative Networks for Neutrino Physics Experiments using Liquid Argon Time Projection Chambers, Paul Lutkus, Taritree Wongjirad, Schuchin Aeron](https://github.com/NuTufts/LArTPC-VQVAE)
-* [E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://github.com/bnachman/EnsembleLearning)
+* [E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once, Benjamin Nachman and Jesse Thaler](https://github.com/bnachman/EnsembleLearning)
 * [Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge, Sang Eon Park, Dylan Rankin, Silviu-Marian Udrescu, Mikaeel Yunus, Philip Harris](https://github.com/SangeonPark/QUAK)
 * [Enhancing searches for resonances with machine learning and moment decomposition](https://github.com/okitouni/MoDe)
 * [Poisson Flow Generative Models, Yilun Xu, Ziming Liu, Max Tegmark, Tommi Jaakkola](https://github.com/Newbeeer/poisson_flow)
